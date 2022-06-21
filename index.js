@@ -70,3 +70,6 @@ app.get("/uma7",(req,res)=>{
 app.get("/sd",(req,res)=>{
         res.render("sd")
     })
+app.get("/dfdf",(req,res)=>{
+        res.render("dfdf")
+    })
